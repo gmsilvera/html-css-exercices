@@ -1,1 +1,1 @@
-# html-css-exercices
+# html-css-exercises
